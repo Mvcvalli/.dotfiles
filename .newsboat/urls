@@ -1,0 +1,35 @@
+# NewsBoat URL LIST
+# Something being on this list is NOT an endorsement. 
+
+# Free Software Foundation 
+http://static.fsf.org/fsforg/rss/news.xml   "FSF - News"     "~FSF News"
+http://static.fsf.org/fsforg/rss/blogs.xml  "FSF - Blogs"    "~FSF Blogs"
+http://static.fsf.org/fsforg/rss/jobs.xml   "FSF - Jobs"     "~FSF Jobs"
+https://shop.fsf.org/rss.xml                "FSF - Shop"     "~FSF Shop"
+https://planet.gnu.org/rss20.xml            "FSF - GNU"      "~Planet GNU"
+http://www.gnu.org/rss/whatsnew.rss         "FSF - GNU News" "~GNU News"
+https://ryf.fsf.org/news/rss.xml            "FSF - Respects Your Freedom Certification" "~RYF News"
+
+# Technology
+https://landchad.net/rss.xml                 "Technology - LandChad" "~LandChad"
+https://www.defectivebydesign.org/rss.xml    "Technology - Defective by Design" 
+https://endsoftwarepatents.org/feed/         "Technology - End Software Patents"
+https://www.eff.org/rss.xml                  "Technology - Electronic Frontier Foundation" 
+http://feeds2.feedburner.com/Command-line-fu "Technology - commandlinefu" "~commandlinefu"
+https://futo.org/feed/                       "Technology - Futo" "~FUTO"
+
+# People
+https://lukesmith.xyz/rss.xml               "People - Luke Smith"       "~Luke Smith"
+https://stallman.org//rss/rss.xml           "People - Richard Stallman" "~Richard Stallman"
+https://blog.tomasino.org/index.xml         "People - James Tomasino"   "~James Tomasino"
+https://www.rossmanngroup.com/feed/         "People - Louis Rossmann"   "~Louis Rossmann"
+https://jacobwsmith.xyz/rss.xml             "People - Jacob Smith"      "~Jacob Smith"
+https://aperture.gg/blogs/the-universe.atom "People - Aperture          "~Aperture"
+
+# Podcasts
+https://notrelated.xyz/rss                  "Podcast - Not Related!"    "~Not Related!"
+https://anchor.fm/s/149fd51c/podcast/rss    "Podcast - Tech Over Tea"   "~Tech Over Tea"
+https://feeds.megaphone.fm/darknetdiaries   "Podcast - Darknet Diaries" "~Darknet Diaries"
+
+# PeerTube
+https://lukesmith.xyz/peertube              "PeerTube - Luke Smith"     "~PeerTube - Luke Smith"
