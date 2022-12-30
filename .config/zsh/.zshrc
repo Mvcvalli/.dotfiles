@@ -66,6 +66,10 @@ alias n="newsboat"
 alias e="$EDITOR"
 alias v="$EDITOR"
 
+alias aptac="echo 'Running apt auto clean' ;sudo apt autoclean"
+alias aptupg="echo 'Running apt update and upgrade'; sudo apt update && sudo apt upgrade"
+alias aptar="echo 'autoremove apt packages'; sudo apt autoremove"
+
 alias ls="exa -a --color=always --icons --group-directories-first"
 alias ll="exa -la --color=always --icons --group-directories-first"
 alias tree="exa -a --color=always --icons --group-directories-first -T"
