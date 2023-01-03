@@ -1,30 +1,24 @@
-" GENERAL
-set encoding=utf-8
-set mouse=a
-set linebreak
-set gdefault
-set clipboard^=unnamed,unnamedplus
-set background=dark
-set viminfo=""
-set virtualedit=onemore
-set shortmess+=I
-set wildmenu
-set equalalways splitbelow splitright
+" GENERAL.
+filetype plugin on | filetype indent on | syntax enable | set encoding=utf-8
+set mouse=a linebreak bg=dark shortmess+=I viminfo=""
+set ignorecase smartcase incsearch showmatch hlsearch gdefault
 set nobackup nowritebackup noswapfile
-set incsearch hlsearch ignorecase smartcase wildignorecase
-set backspace=indent,eol,start
-filetype plugin on | filetype indent on | syntax enable
+set equalalways splitbelow splitright
+set wildmenu wildoptions=pum wildignorecase
+set clipboard^=unnamed,unnamedplus
+
+" AUTOCOMMANDS.
+autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o " Disables automatic commenting on newline.
+autocmd BufWritePre * %s/\s\+$//e " Remove trailing whitespace on save.
 
 " KEYBINDINGS
-
-" Leader key.
 let g:mapleader = "\<Space>"
 
-" Disable Recording & Ex Mode
+" Disable Recording & Ex Mode.
 map q <Nop>
 map Q <Nop>
 
-" Disable arrow keys
+" Disable arrow keys.
 map <up> <nop>
 map <down> <nop>
 map <left> <nop>
@@ -38,25 +32,14 @@ nnoremap : ;
 vnoremap ; :
 vnoremap : ;
 
-" Toogle line numbers
-nnoremap <silent> <leader>n :set number<CR>
-
 " Copies the contents of the entire file to clipboard
-map <C-y  <esc>:%y+<CR>
+nnoremap <C-y  <esc>:%y+<CR>
 
 " File explorer
 nnoremap <silent> <C-f> :NERDTreeToggle<CR>
 
 " Toggle Goyo
 nnoremap <leader><ENTER> :Goyo<CR>
-
-" AUTOCOMMANDS
-
-" Disable automatic commenting on newline:
-autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
-
-" Remove trailing whitespace on save
-autocmd BufWritePre * %s/\s\+$//e
 
 " ABBREVIATIONS
 source $HOME/.vim/abbreviations.vim
