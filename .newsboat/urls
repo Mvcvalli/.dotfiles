@@ -1,0 +1,50 @@
+# NewsBoat URL LIST.
+# Something being on this list is NOT an endorsement.
+
+# Free Software Foundation (FSF)
+http://static.fsf.org/fsforg/rss/news.xml   "~FSF News"
+http://static.fsf.org/fsforg/rss/events.xml "~FSF Events"
+http://static.fsf.org/fsforg/rss/blogs.xml  "~FSF Blogs"
+http://static.fsf.org/fsforg/rss/jobs.xml   "~FSF Jobs"
+http://www.gnu.org/rss/whatsnew.rss         "~GNU Project News"
+https://planet.gnu.org/rss20.xml            "~Planet GNU"
+https://www.defectivebydesign.org/rss.xml   "~Defective By Design"
+https://endsoftwarepatents.org/feed/        "~End Software Patents"
+https://ryf.fsf.org/news/rss.xml            "~RYF News"
+https://ryf.fsf.org/products/rss.xml        "~RYF Products"
+
+# Technology
+https://www.eff.org/rss.xml                 "~EFF"
+https://futo.org/feed/                      "~FUTO"
+https://landchad.net/index.xml              "~LandChad"
+https://larbs.xyz/index.xml                 "~LARBS"
+https://f-droid.org/feed.xml                "~F-Droid"
+
+# People
+https://lukesmith.xyz/index.xml             "~Luke Smith"
+https://stallman.org//rss/rss.xml           "~Richard Stallman"
+https://rossmanngroup.com/feed              "~Louis Rossmann"
+
+# News
+https://www.stuff.co.nz/feed                "~Stuff"
+https://www.infowars.com/rss.xml            "~InfoWars"
+https://www.newswars.com/feed/              "~NewsWars"
+
+# Media - Pictures.
+https://www.pwpix.net/feed/                 "~PWPIX"
+https://www.pwpix.net/category/photos/feed/ "~PWPIX Photos"
+
+#4chan
+https://boards.4channel.org/g/index.rss     "~4chan /g/"
+https://boards.4channel.org/pw/index.rss    "~4chan /pw/"
+https://boards.4chan.org/b/index.rss        "~4chan /b/"
+https://boards.4chan.org/pol/index.rss      "~4chan /pol/"
+https://boards.4chan.org/s/index.rss	    "~4chan /s/"
+
+# Media - Videos.
+https://odysee.com/$/rss/@Luke:7              "~Luke Smith                  (Odysee)"
+https://odysee.com/$/rss/@rossmanngroup:a     "~Louis Rossmann              (Odysee)"
+https://odysee.com/$/rss/@rossmanngrouplive:9 "~Louis Rossmann: RANDOM LIVE (Odysee)"
+https://odysee.com/$/rss/@BrodieRobertson:5   "~Brodie Robertson            (Odysee)"
+https://odysee.com/$/rss/@AlphaNerd:8         "~Mental Outlaw               (Odysee)"
+https://odysee.com/$/rss/@tripcodeq7:f        "~tripcode!Q/7                (Odysee)"
