@@ -21,7 +21,7 @@ color article            default default
 
 # Navigation
 goto-next-feed no
-browser "open -a LibreWolf '%u'"
+browser "$BROWSER %u"
 
 bind-key j down feedlist
 bind-key k up feedlist
@@ -37,6 +37,3 @@ bind-key a toggle-article-read
 unbind-key C feedlist
 confirm-exit no
 cleanup-on-quit yes
-
-# Testing
-macro v set browser "setsid -f mpv --really-quiet --no-terminal" ; open-in-browser ; set browser LibreWolf

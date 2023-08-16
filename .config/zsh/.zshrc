@@ -10,7 +10,7 @@ setopt interactive_comments
 # History in cache directory:
 HISTSIZE=10000000
 SAVEHIST=10000000
-HISTFILE="~/.config/zsh/.zsh_history"
+HISTFILE="$HOME/.config/zsh/.zsh_history"
 
 # Basic auto/tab complete:
 autoload -U compinit
@@ -18,6 +18,15 @@ zstyle ':completion:*' menu select
 zmodload zsh/complist
 compinit
 _comp_options+=(globdots)		# Include hidden files.
+
+# Completion Options.
+setopt complete_in_word         # Complete From Both Ends Of A Word.
+setopt always_to_end            # Move Cursor To The End Of A Completed Word.
+setopt path_dirs                # Perform Path Search Even On Command Names With Slashes.
+setopt auto_menu                # Show Completion Menu On A Successive Tab Press.
+setopt auto_list                # Automatically List Choices On Ambiguous Completion.
+setopt auto_param_slash         # If Completed Parameter Is A Directory, Add A Trailing Slash.
+setopt menu_complete            # Do Not Autoselect The First Completion Entry.
 
 # Zap plugin manager
 [ -f "$HOME/.local/share/zap/zap.zsh" ] && source "$HOME/.local/share/zap/zap.zsh"
