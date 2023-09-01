@@ -1,0 +1,44 @@
+# See man `man zathurarc'
+map p print
+map i recolor
+map J zoom out
+map K zoom in
+map R rotate
+unmap f
+map f toggle_fullscreen
+map [fullscreen] f toggle_fullscreen
+
+
+set sandbox none
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set adjust-open "best-fit"
+set guioptions ""
+
+# zathurarc-dark
+set font "inconsolata 15"
+set default-bg "#000000" #00
+set default-fg "#F7F7F6" #01
+
+set statusbar-fg "#B0B0B0" #04
+set statusbar-bg "#202020" #01
+
+set inputbar-bg "#151515" #00 currently not used
+set inputbar-fg "#FFFFFF" #02
+
+set notification-error-bg       "#586e75" # base01  # seem not work
+set notification-error-fg       "#dc322f" # red
+set notification-warning-bg     "#586e75" # base01
+set notification-warning-fg     "#dc322f" # red
+set notification-bg             "#586e75" # base01
+set notification-fg             "#b58900" # yellow
+
+set highlight-color "#F4BF75" #0A
+set highlight-active-color "#6A9FB5" #0D
+
+set completion-group-bg         "#002b36" # base03
+set completion-group-fg         "#839496" # base0
+set completion-bg               "#073642" # base02
+set completion-fg               "#93a1a1" # base1
+set completion-highlight-bg     "#586e75" # base01
+set completion-highlight-fg     "#eee8d5" # base2
