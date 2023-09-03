@@ -34,6 +34,9 @@ plug "hlissner/zsh-autopair"
 
 # Aliases
 
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
 # Reload the shell (i.e. invoke as a login shell)
 alias reload="exec ${SHELL} -l"
 
@@ -42,12 +45,10 @@ alias c="clear"
 alias rr="rm -rf -Iv"
 alias cp="cp -iv"
 alias mv="mv -iv"
+alias mkd="mkdir -pv"
 alias mkdir="mkdir -pv"
 alias sdn="shutdown -h now"
-
 alias clipclr="printf '' | xclip -selection clipboard"
-alias mpv="setsid -f mpv"
-alias sxiv="setsid -f sxiv"
 
 alias .h="cd $HOME"
 alias .1="cd .."
@@ -56,11 +57,19 @@ alias .3="cd ../../.."
 alias .4="cd ../../../.."
 alias .5="cd ../../../../.."
 
-alias g="git"
-alias s="ncdu"
+alias dox="cd ~/personal/dox"
+alias dl="cd ~/personal/dl"
+alias pix="cd ~/personal/pix"
+alias vid="cd ~/personal/vid"
+alias conf="cd ~/.config"
+alias srpt="cd ~/.local/scripts"
+
 alias n="newsboat"
 alias e="$EDITOR"
 alias v="$EDITOR"
+alias z="zathura"
+alias mpv="setsid -f mpv"
+alias sxiv="setsid -f sxiv"
 
 alias ls="exa -a --color=always --icons --group-directories-first"
 alias ll="exa -la --color=always --icons --group-directories-first"
