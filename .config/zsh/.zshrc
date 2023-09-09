@@ -17,6 +17,10 @@ zmodload zsh/complist
 compinit
 _comp_options+=(globdots)		# Include hidden files.
 
+Case Insensitive Tab Completion:
+autoload -Uz compinit && compinit
+zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}'
+
 # Completion Options.
 setopt complete_in_word         # Complete From Both Ends Of A Word.
 setopt always_to_end            # Move Cursor To The End Of A Completed Word.
