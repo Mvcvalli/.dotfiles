@@ -1,48 +1,46 @@
 # NewsBoat URL LIST.
 # Something being on this list is NOT an endorsement.
 
-# Free Software Foundation (FSF)
-http://static.fsf.org/fsforg/rss/news.xml   "~FSF News"
-http://static.fsf.org/fsforg/rss/events.xml "~FSF Events"
-http://static.fsf.org/fsforg/rss/blogs.xml  "~FSF Blogs"
-http://static.fsf.org/fsforg/rss/jobs.xml   "~FSF Jobs"
-http://www.gnu.org/rss/whatsnew.rss         "~GNU Project News"
-https://planet.gnu.org/rss20.xml            "~Planet GNU"
-https://www.defectivebydesign.org/rss.xml   "~Defective By Design"
-https://endsoftwarepatents.org/feed/        "~End Software Patents"
-https://ryf.fsf.org/news/rss.xml            "~RYF News"
-https://ryf.fsf.org/products/rss.xml        "~RYF Products"
+# FSF
+http://static.fsf.org/fsforg/rss/news.xml     "~FSF News"
+http://static.fsf.org/fsforg/rss/events.xml   "~FSF Events"
+http://static.fsf.org/fsforg/rss/blogs.xml    "~FSF Blogs"
+http://static.fsf.org/fsforg/rss/jobs.xml     "~FSF Jobs"
+http://www.gnu.org/rss/whatsnew.rss           "~GNU Project News"
+https://planet.gnu.org/rss20.xml              "~Planet GNU"
+https://www.defectivebydesign.org/rss.xml     "~Defective By Design"
+https://endsoftwarepatents.org/feed/          "~End Software Patents"
+https://ryf.fsf.org/news/rss.xml              "~RYF News"
+https://ryf.fsf.org/products/rss.xml          "~RYF Products"
 
 # Technology
-https://www.eff.org/rss.xml                 "~EFF"
-https://futo.org/feed/                      "~FUTO"
-https://landchad.net/index.xml              "~LandChad"
-https://larbs.xyz/index.xml                 "~LARBS"
-https://f-droid.org/feed.xml                "~F-Droid"
-https://sfconservancy.org/feeds/news/	    "~SFC News"
-https://sfconservancy.org/feeds/blog/	    "~SFC Blog"
+https://www.eff.org/rss.xml                   "~EFF"
+https://futo.org/feed/                        "~FUTO"
+https://landchad.net/index.xml                "~LandChad"
+https://larbs.xyz/index.xml                   "~LARBS"
+https://f-droid.org/feed.xml                  "~F-Droid"
+https://sfconservancy.org/feeds/news/	        "~SFC News"
+https://sfconservancy.org/feeds/blog/	        "~SFC Blog"
 
 # People
-https://lukesmith.xyz/index.xml             "~Luke Smith"
-https://stallman.org//rss/rss.xml           "~Richard Stallman"
-https://rossmanngroup.com/feed              "~Louis Rossmann"
+https://lukesmith.xyz/index.xml               "~Luke Smith"
+https://stallman.org//rss/rss.xml             "~Richard Stallman"
+https://rossmanngroup.com/feed                "~Louis Rossmann"
 
-# Other
-https://stallmansupport.org/feed.xml        "~In support of Richard Stallman"
-https://based.win/feed/                     "~Based.win » Feed"
-https://based.win/shop/feed/                "~Based.win » Products Feed"
-https://based.cooking/index.xml             "~Based Cooking"
-https://www.stuff.co.nz/feed                "~Stuff NZ" 
-
-# Media - Pictures.
-https://www.pwpix.net/category/photos/feed/ "~PWPIX Photos"
-https://erowall.com/rss.php                 "~Erotic Wallpapers"
-https://boards.4chan.org/wg/index.rss       "~4chan - Wallpapers/General"
-
-# Media - Videos.
+# Odysee
 https://odysee.com/$/rss/@Luke:7              "~Luke Smith                  (Odysee)"
 https://odysee.com/$/rss/@rossmanngroup:a     "~Louis Rossmann              (Odysee)"
 https://odysee.com/$/rss/@rossmanngrouplive:9 "~Louis Rossmann: RANDOM LIVE (Odysee)"
 https://odysee.com/$/rss/@BrodieRobertson:5   "~Brodie Robertson            (Odysee)"
 https://odysee.com/$/rss/@AlphaNerd:8         "~Mental Outlaw               (Odysee)"
 https://odysee.com/$/rss/@tripcodeq7:f        "~tripcode!Q/7                (Odysee)"
+
+# Other
+https://stallmansupport.org/feed.xml          "~In support of Richard Stallman"
+https://www.stuff.co.nz/feed                  "~Stuff NZ" 
+https://based.cooking/index.xml               "~Based Cooking"
+https://based.win/feed/                       "~Based.win » Feed"
+https://based.win/shop/feed/                  "~Based.win » Products Feed"
+https://www.pwpix.net/category/photos/feed/   "~PWPIX Photos"
+https://erowall.com/rss.php                   "~Erotic Wallpapers"
+https://boards.4chan.org/wg/index.rss         "~4chan - Wallpapers/General"
