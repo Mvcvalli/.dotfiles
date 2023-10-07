@@ -1,0 +1,110 @@
+# file types
+di              # DIR
+fi              # FILE
+ex      🎯       # EXEC
+ln              # LINK
+or             # ORPHAN
+
+# file extensions (vim-devicons)
+*.html          
+*.md            
+*.markdown      
+*.json          
+*.lua           
+*.sh            
+*.fish          
+*.bash          
+*.zsh           
+*.rss           
+*.vim           
+*.nvim          
+*.gitconfig     
+*.gitignore     
+*.gitattributes 
+*.bashrc        
+*.zshrc         
+*.zshenv        
+*.zprofile      
+*.vimrc         
+*.gvimrc        
+*_vimrc         
+*_gvimrc        
+*.bashprofile   
+*license        
+*makefile       
+
+# file names (case-sensitive adaptations)
+*LICENSE        
+*Makefile       
+
+# image formats (extensions from dircolors defaults)
+*.jpg   
+*.jpeg  
+*.mjpg  
+*.mjpeg 
+*.gif   
+*.bmp   
+*.pbm   
+*.pgm   
+*.ppm   
+*.tga   
+*.xbm   
+*.xpm   
+*.tif   
+*.tiff  
+*.png   
+*.svg   
+*.svgz  
+*.mng   
+*.pcx   
+*.mov   
+*.mpg   
+*.mpeg  
+*.m2v   
+*.mkv   
+*.webm  
+*.ogm   
+*.mp4   
+*.m4v   
+*.mp4v  
+*.vob   
+*.qt    
+*.nuv   
+*.wmv   
+*.asf   
+*.rm    
+*.rmvb  
+*.flc   
+*.avi   
+*.fli   
+*.flv   
+*.gl    
+*.dl    
+*.xcf   
+*.xwd   
+*.yuv   
+*.cgm   
+*.emf   
+*.ogv   
+*.ogx   
+
+# audio formats (extensions from dircolors defaults)
+*.aac   
+*.au    
+*.flac  
+*.m4a   
+*.mid   
+*.midi  
+*.mka   
+*.mp3   
+*.mpc   
+*.ogg   
+*.ra    
+*.wav   
+*.oga   
+*.opus  
+*.spx   
+*.xspf  
+
+# other formats
+*.pdf   󰈦
