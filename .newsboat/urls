@@ -27,14 +27,6 @@ https://lukesmith.xyz/index.xml               "~Luke Smith"
 https://stallman.org//rss/rss.xml             "~Richard Stallman"
 https://rossmanngroup.com/feed                "~Louis Rossmann"
 
-# Odysee
-https://odysee.com/$/rss/@Luke:7              "~Luke Smith                  (Odysee)"
-https://odysee.com/$/rss/@rossmanngroup:a     "~Louis Rossmann              (Odysee)"
-https://odysee.com/$/rss/@rossmanngrouplive:9 "~Louis Rossmann: RANDOM LIVE (Odysee)"
-https://odysee.com/$/rss/@BrodieRobertson:5   "~Brodie Robertson            (Odysee)"
-https://odysee.com/$/rss/@AlphaNerd:8         "~Mental Outlaw               (Odysee)"
-https://odysee.com/$/rss/@tripcodeq7:f        "~tripcode!Q/7                (Odysee)"
-
 # YouTube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~Louis Rossmann (YouTube)"
@@ -52,10 +44,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCJvbA_ZCxTsNPb2oIfRQwUw "~G
 
 # Other
 https://stallmansupport.org/feed.xml          "~In support of Richard Stallman"
-https://www.stuff.co.nz/feed                  "~Stuff NZ" 
+https://www.stuff.co.nz/feed                  "~Stuff NZ"
 https://based.cooking/index.xml               "~Based Cooking"
-https://based.win/feed/                       "~Based.win » Feed"
-https://based.win/shop/feed/                  "~Based.win » Products Feed"
 https://www.pwpix.net/category/photos/feed/   "~PWPIX Photos"
-https://erowall.com/rss.php                   "~Erotic Wallpapers"
-https://boards.4chan.org/wg/index.rss         "~4chan - Wallpapers/General"
