@@ -3,7 +3,7 @@ export VISUAL="nvim"
 export EDITOR="nvim"
 export BROWSER="librewolf"
 export TERMINAL="alacritty"
-export IMAGE="sxiv"
+export IMAGE="nsxiv"
 export VIDEO="mpv"
 export READER="zathura"
 

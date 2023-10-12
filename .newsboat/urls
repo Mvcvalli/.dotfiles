@@ -19,8 +19,8 @@ https://futo.org/feed/                        "~FUTO"
 https://landchad.net/index.xml                "~LandChad"
 https://larbs.xyz/index.xml                   "~LARBS"
 https://f-droid.org/feed.xml                  "~F-Droid"
-https://sfconservancy.org/feeds/news/	        "~SFC News"
-https://sfconservancy.org/feeds/blog/	        "~SFC Blog"
+https://sfconservancy.org/feeds/news/	      "~SFC News"
+https://sfconservancy.org/feeds/blog/	      "~SFC Blog"
 
 # People
 https://lukesmith.xyz/index.xml               "~Luke Smith"
@@ -41,6 +41,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCSmheuqpa0deotgNSlVtzNw "~K
 https://www.youtube.com/feeds/videos.xml?channel_id=UCd2SXFamGsd5gjNDqJM3l2w "~The Akoma Network (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9iZ-y4p_TF75BzZ162oDkQ "~GNU archive unofficial (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJvbA_ZCxTsNPb2oIfRQwUw "~Greentext Animations (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWh6YtclgTAzReTASc4uSKw "~MAKC (YouTube)"
 
 # Other
 https://stallmansupport.org/feed.xml          "~In support of Richard Stallman"
