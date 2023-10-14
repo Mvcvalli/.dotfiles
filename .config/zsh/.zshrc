@@ -51,6 +51,7 @@ alias cp="cp -iv"
 alias mv="mv -iv"
 alias mkd="mkdir -pv"
 alias mkdir="mkdir -pv"
+alias mkex="chmod +x"
 alias sdn="shutdown -h now"
 alias clipclr="printf '' | xclip -selection clipboard"
 
