@@ -6,6 +6,7 @@ export TERMINAL="alacritty"
 export IMAGE="nsxiv"
 export VIDEO="mpv"
 export READER="zathura"
+export RSS="newsboat"
 
 # Language
 export LANG=en_NZ.UTF-8

@@ -1,31 +1,30 @@
 # NewsBoat URL LIST.
 # Something being on this list is NOT an endorsement.
 
-# FSF
-http://static.fsf.org/fsforg/rss/news.xml     "~FSF News"
-http://static.fsf.org/fsforg/rss/events.xml   "~FSF Events"
-http://static.fsf.org/fsforg/rss/blogs.xml    "~FSF Blogs"
-http://static.fsf.org/fsforg/rss/jobs.xml     "~FSF Jobs"
-http://www.gnu.org/rss/whatsnew.rss           "~GNU Project News"
-https://planet.gnu.org/rss20.xml              "~Planet GNU"
-https://www.defectivebydesign.org/rss.xml     "~Defective By Design"
-https://endsoftwarepatents.org/feed/          "~End Software Patents"
-https://ryf.fsf.org/news/rss.xml              "~RYF News"
-https://ryf.fsf.org/products/rss.xml          "~RYF Products"
-
-# Technology
-https://www.eff.org/rss.xml                   "~EFF"
-https://futo.org/feed/                        "~FUTO"
-https://landchad.net/index.xml                "~LandChad"
-https://larbs.xyz/index.xml                   "~LARBS"
-https://f-droid.org/feed.xml                  "~F-Droid"
-https://sfconservancy.org/feeds/news/	      "~SFC News"
-https://sfconservancy.org/feeds/blog/	      "~SFC Blog"
+# FSF & GNU
+http://static.fsf.org/fsforg/rss/news.xml                                    "~FSF News"
+http://static.fsf.org/fsforg/rss/events.xml                                  "~FSF Events"
+http://static.fsf.org/fsforg/rss/blogs.xml                                   "~FSF Blogs"
+http://static.fsf.org/fsforg/rss/jobs.xml                                    "~Free Software Jobs"
+http://www.gnu.org/rss/whatsnew.rss                                          "~GNU Project News"
+http://www.gnu.org/rss/quagga.rss                                            "~New Free Software"
+https://planet.gnu.org/rss20.xml                                             "~Planet GNU"
+https://www.defectivebydesign.org/rss.xml                                    "~Defective by Design"
+https://endsoftwarepatents.org/feed/                                         "~End Software Patents"
+https://ryf.fsf.org/news/rss.xml                                             "~RYF News"
+https://ryf.fsf.org/products/rss.xml                                         "~RYF Products"
 
 # People
-https://lukesmith.xyz/index.xml               "~Luke Smith"
-https://stallman.org//rss/rss.xml             "~Richard Stallman"
-https://rossmanngroup.com/feed                "~Louis Rossmann"
+https://stallman.org//rss/rss.xml                                            "~RMS"
+https://lukesmith.xyz/index.xml                                              "~Luke Smith"
+https://rossmanngroup.com/feed                                               "~Louis Rossmann"
+
+# Miscellaneous
+https://www.stuff.co.nz/feed                                                 "~Stuff NZ"
+https://stallmansupport.org/feed.xml                                         "~Stallman Support"
+https://based.cooking/index.xml                                              "~Based Cooking"
+https://www.pwpix.net/feed/                                                  "~PWPIX"
+https://www.pwpix.net/category/photos/feed/                                  "~PWPIX Photos"
 
 # YouTube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
@@ -33,21 +32,16 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~L
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6nZlvfz4YWoBWbjiaYJA3g "~Louis Rossmann: RANDOM LIVE (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "~Brodie Robertson (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w "~tripcode!Q/7 (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCpHZ2Zja5MDrAv1L577Z-TQ "~RHRPaige (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCp1tsmksyf6TgKFMdt8-05Q "~The Casual Criminalist (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCij1VEjDb88RCbqsvZ1gqaw "~Side Of Burritos (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCSmheuqpa0deotgNSlVtzNw "~Kickin it with Ross (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCd2SXFamGsd5gjNDqJM3l2w "~The Akoma Network (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC9iZ-y4p_TF75BzZ162oDkQ "~GNU archive unofficial (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJvbA_ZCxTsNPb2oIfRQwUw "~Greentext Animations (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCWh6YtclgTAzReTASc4uSKw "~MAKC (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCTEote-ua6fiaScU-Vto8tQ "~CVUK (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCxk3_stEIe1ZhNBuAWlNMSQ "~Curls (YouTube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w "~tripcode!Q/7 (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCij1VEjDb88RCbqsvZ1gqaw "~Side Of Burritos (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9iZ-y4p_TF75BzZ162oDkQ "~GNU archive unofficial (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpHZ2Zja5MDrAv1L577Z-TQ "~RHRPaige (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxk3_stEIe1ZhNBuAWlNMSQ "!~Curls (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJvbA_ZCxTsNPb2oIfRQwUw "~Greentext Animations (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCp1tsmksyf6TgKFMdt8-05Q "~The Casual Criminalist (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ5v_MCY6GNUBTO8-D3XoAg "!~WWE (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSmheuqpa0deotgNSlVtzNw "!~Kickin it with Ross (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCd2SXFamGsd5gjNDqJM3l2w "!~The Akoma Network (YouTube)"
 
-# Other
-https://stallmansupport.org/feed.xml          "~In support of Richard Stallman"
-https://www.stuff.co.nz/feed                  "~Stuff NZ"
-https://based.cooking/index.xml               "~Based Cooking"
-https://www.pwpix.net/category/photos/feed/   "~PWPIX Photos"
-https://videos.lukesmith.xyz/feeds/videos.xml?sort=-publishedAt&isLocal=true "~Luke Smith (PeerTube)"
+
