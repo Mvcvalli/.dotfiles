@@ -18,6 +18,7 @@ https://ryf.fsf.org/products/rss.xml                                         "~R
 https://stallman.org//rss/rss.xml                                            "~RMS"
 https://lukesmith.xyz/index.xml                                              "~Luke Smith"
 https://rossmanngroup.com/feed                                               "~Louis Rossmann"
+https://drewdevault.com/blog/index.xml					     "~Drew DeVault"
 
 # Miscellaneous
 https://www.stuff.co.nz/feed                                                 "~Stuff NZ"
@@ -25,6 +26,10 @@ https://stallmansupport.org/feed.xml                                         "~S
 https://based.cooking/index.xml                                              "~Based Cooking"
 https://www.pwpix.net/feed/                                                  "~PWPIX"
 https://www.pwpix.net/category/photos/feed/                                  "~PWPIX Photos"
+https://videos.lukesmith.xyz/feeds/videos.xml?sort=-publishedAt&isLocal=true "~Luke Smith (PeerTube)"
+https://lbry.slipfox.xyz/@18nsfw:e/rss					     "~18nsfw (Librarian)"
+https://lbry.slipfox.xyz/@Mvcvalli:6/rss				     "~Mvcvalli (Librarian)"
+https://media.libreplanet.org/atom/                                          "~GNU MediaGoblin"
 
 # YouTube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
@@ -43,5 +48,3 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCp1tsmksyf6TgKFMdt8-05Q "~T
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJ5v_MCY6GNUBTO8-D3XoAg "!~WWE (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCSmheuqpa0deotgNSlVtzNw "!~Kickin it with Ross (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCd2SXFamGsd5gjNDqJM3l2w "!~The Akoma Network (YouTube)"
-
-
