@@ -3,9 +3,9 @@ export VISUAL="nvim"
 export EDITOR="nvim"
 export BROWSER="librewolf"
 export TERMINAL="alacritty"
-export IMAGE="nsxiv"
-export VIDEO="mpv"
-export READER="zathura"
+export IMAGE="setsid -f nsxiv"
+export VIDEO="setsid -f mpv"
+export READER="setsid -f zathura"
 export RSS="newsboat"
 
 # Language
