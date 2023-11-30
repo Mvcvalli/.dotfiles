@@ -35,8 +35,12 @@ fundle plugin "edc/bass"
 fundle plugin "jorgebucaran/autopair.fish"
 fundle init
 
-# Aliases
+# Abbreviations
+abbr cld "git clone --depth 1"
+abbr pdw "pwd"
+abbr cd.. "cd .."
 
+# Aliases
 alias q="exit"
 alias c="clear"
 alias rr="rm -rf -Iv"
