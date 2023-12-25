@@ -3,11 +3,8 @@
 
 # FSF & GNU
 http://static.fsf.org/fsforg/rss/news.xml                                    "~FSF News"
-http://static.fsf.org/fsforg/rss/events.xml                                  "~FSF Events"
 http://static.fsf.org/fsforg/rss/blogs.xml                                   "~FSF Blogs"
-http://static.fsf.org/fsforg/rss/jobs.xml                                    "~Free Software Jobs"
 http://www.gnu.org/rss/whatsnew.rss                                          "~GNU Project News"
-http://www.gnu.org/rss/quagga.rss                                            "~New Free Software"
 https://planet.gnu.org/rss20.xml                                             "~Planet GNU"
 https://www.defectivebydesign.org/rss.xml                                    "~Defective by Design"
 https://endsoftwarepatents.org/feed/                                         "~End Software Patents"
@@ -22,7 +19,6 @@ https://drewdevault.com/blog/index.xml					     "~Drew DeVault"
 https://blog.tomasino.org/index.xml					     "~Tomasino Blog"
 
 # Miscellaneous
-https://www.stuff.co.nz/feed                                                 "!~Stuff NZ"
 https://stallmansupport.org/feed.xml                                         "~Stallman Support"
 https://based.cooking/index.xml                                              "~Based Cooking"
 https://videos.lukesmith.xyz/feeds/videos.xml?sort=-publishedAt&isLocal=true "~Luke Smith (PeerTube)"
@@ -33,7 +29,7 @@ https://media.libreplanet.org/atom/                                          "~G
 # YouTube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~Louis Rossmann (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6nZlvfz4YWoBWbjiaYJA3g "~Louis Rossmann:RANDOM LIVE (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nZlvfz4YWoBWbjiaYJA3g "~Louis Rossmann:RANDOM (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "~Brodie Robertson (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCWh6YtclgTAzReTASc4uSKw "~MAKC (YouTube)"
@@ -45,7 +41,9 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCxk3_stEIe1ZhNBuAWlNMSQ "~C
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJvbA_ZCxTsNPb2oIfRQwUw "~Greentext Animations (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCp1tsmksyf6TgKFMdt8-05Q "~The Casual Criminalist (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCUP5UhD6cMfpN4vxW3FYJLQ "~DoingFedTime (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCYwVxWpjeKFWwu8TML-Te9A "~JCS - Criminal Psychology (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYwVxWpjeKFWwu8TML-Te9A "~JCS Criminal Psychology (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCbTp1BYjpuhDRG5OmgIT8iw "~James Tomasino (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCc9CjaAjsMMvaSghZB7-Kog "~BeardMeatsFood"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCekXK9WdaAbA5YhHX04TPmA "~Anastasie Vaskevich"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCc9CjaAjsMMvaSghZB7-Kog "~BeardMeatsFood (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCekXK9WdaAbA5YhHX04TPmA "~Anastasie Vaskevich (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_hY7q7Kxy3-TL32b92xfWQ "~George Dunnett (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsjYvTIExm1qhLfXAaPunKw "~ZELVX and CHARLIE GIRL (YouTube)"
