@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="false"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=683;y=10"/>
+      <property name="length" type="double" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="size" type="uint" value="18"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="11"/>
+        <value type="int" value="13"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="4"/>
+        <value type="int" value="12"/>
+        <value type="int" value="7"/>
+        <value type="int" value="17"/>
+        <value type="int" value="14"/>
+        <value type="int" value="10"/>
+        <value type="int" value="9"/>
+        <value type="int" value="1"/>
+        <value type="int" value="6"/>
+        <value type="int" value="5"/>
+        <value type="int" value="8"/>
+      </property>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="length-adjust" type="bool" value="false"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="1"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
+      <property name="sort-order" type="uint" value="3"/>
+      <property name="show-tooltips" type="bool" value="true"/>
+      <property name="show-handle" type="bool" value="false"/>
+      <property name="include-all-workspaces" type="bool" value="true"/>
+      <property name="flat-buttons" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="true"/>
+      <property name="switch-workspace-on-unminimize" type="bool" value="true"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="workspace-scrolling" type="bool" value="false"/>
+      <property name="miniature-view" type="bool" value="true"/>
+      <property name="numbering" type="bool" value="false"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “mikyung” active: mikyung (70%)"/>
+        <value type="string" value="deadbeef"/>
+        <value type="string" value="wi-fi network connection “mikyung” active: mikyung (67%)"/>
+        <value type="string" value="wi-fi network connection “mikyung” active: mikyung (73%)"/>
+        <value type="string" value="wi-fi network connection “mikyung” active: mikyung (63%)"/>
+        <value type="string" value="wi-fi network connection “mikyung” active: mikyung (61%)"/>
+        <value type="string" value="wi-fi network connection “mikyung” active: mikyung (68%)"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="wi-fi network connection “sxl guest wifi” active: sxl guest wifi (85%)"/>
+        <value type="string" value="wi-fi network connection “sxl guest wifi” active: sxl guest wifi (82%)"/>
+        <value type="string" value="ibus panel"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="cortile"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="brave.instance43765;firefox.instance106872;firefox.instance10708;firefox.instance107787;firefox.instance1087;firefox.instance10947;firefox.instance110041;firefox.instance11166;firefox.instance1123;firefox.instance1215;firefox.instance12323;firefox.instance12797;firefox.instance130101;firefox.instance13697;firefox.instance14366;firefox.instance144203;firefox.instance14626;firefox.instance14722;firefox.instance152840;firefox.instance157373;firefox.instance16415;firefox.instance18258;firefox.instance1840;firefox.instance18544;firefox.instance18897;firefox.instance19159;firefox.instance21245;firefox.instance21452;firefox.instance23398;firefox.instance23493;firefox.instance24012;firefox.instance24151;firefox.instance2511;firefox.instance26242;firefox.instance26440;firefox.instance27314;firefox.instance28135;firefox.instance2820;firefox.instance28304;firefox.instance28351;firefox.instance28941;firefox.instance29429;firefox.instance30137;firefox.instance31292;firefox.instance3156;firefox.instance32063;firefox.instance32236;firefox.instance32892;firefox.instance3341;firefox.instance35322;firefox.instance35951;firefox.instance3639;firefox.instance37584;firefox.instance37652;firefox.instance38209;firefox.instance40842;firefox.instance41644;firefox.instance42059;firefox.instance42186;firefox.instance42951;firefox.instance43258;firefox.instance4363;firefox.instance44971;firefox.instance45767;firefox.instance45933;firefox.instance45945;firefox.instance46622;firefox.instance47352;firefox.instance49743;firefox.instance50684;firefox.instance5078;firefox.instance51124;firefox.instance52597;firefox.instance52689;firefox.instance52968;firefox.instance5366;firefox.instance53689;firefox.instance5418;firefox.instance5554;firefox.instance56700;firefox.instance57033;firefox.instance57236;firefox.instance5839;firefox.instance5852;firefox.instance5888;firefox.instance59093;firefox.instance60339;firefox.instance62990;firefox.instance63056;firefox.instance63974;firefox.instance64762;firefox.instance64890;firefox.instance65613;firefox.instance67750;firefox.instance68652;firefox.instance69956;firefox.instance71904;firefox.instance72197;firefox.instance74396;firefox.instance74685;firefox.instance7530;firefox.instance75345;firefox.instance76824;firefox.instance81516;firefox.instance83130;firefox.instance83967;firefox.instance84667;firefox.instance85717;firefox.instance86570;firefox.instance88853;firefox.instance91706;firefox.instance99584;firefox.instance_1_123;firefox.instance_1_178;firefox.instance_1_244;firefox.instance_1_291;firefox.instance_1_332;firefox.instance_1_342;firefox.instance_1_485;firefox.instance_1_675;firefox.instance_1_774;firefox.instance_1_785"/>
+    </property>
+    <property name="plugin-7" type="string" value="battery"/>
+    <property name="plugin-11" type="string" value="whiskermenu"/>
+    <property name="plugin-12" type="string" value="separator">
+      <property name="style" type="uint" value="3"/>
+    </property>
+    <property name="plugin-13" type="string" value="separator">
+      <property name="style" type="uint" value="3"/>
+    </property>
+    <property name="plugin-17" type="string" value="separator">
+      <property name="style" type="uint" value="3"/>
+      <property name="expand" type="bool" value="false"/>
+    </property>
+    <property name="plugin-1" type="string" value="separator">
+      <property name="style" type="uint" value="3"/>
+    </property>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="3"/>
+    </property>
+    <property name="plugin-14" type="string" value="clock">
+      <property name="digital-date-format" type="string" value="%a, %d %b %Y"/>
+      <property name="digital-time-format" type="string" value="🗓️ %a %d %b"/>
+      <property name="mode" type="uint" value="2"/>
+      <property name="tooltip-format" type="string" value=""/>
+      <property name="digital-layout" type="uint" value="3"/>
+      <property name="digital-date-font" type="string" value="Sans 7"/>
+      <property name="digital-time-font" type="string" value="IosevkaTerm Nerd Font Bold 9"/>
+      <property name="command" type="string" value=""/>
+      <property name="timezone" type="string" value=""/>
+    </property>
+    <property name="plugin-9" type="string" value="clock">
+      <property name="digital-layout" type="uint" value="3"/>
+      <property name="digital-time-format" type="string" value="🕗 %I:%M%P"/>
+      <property name="digital-time-font" type="string" value="IosevkaTerm Nerd Font Bold 9"/>
+    </property>
+    <property name="plugin-10" type="string" value="separator">
+      <property name="style" type="uint" value="3"/>
+      <property name="expand" type="bool" value="false"/>
+    </property>
+  </property>
+</channel>
