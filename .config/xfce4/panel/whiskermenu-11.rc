@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-terminal-emulator.desktop,xfce4-file-manager.desktop,thunar-bulk-rename.desktop
-recent=xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,thunar-bulk-rename.desktop
+recent=xfce4-file-manager.desktop,thunar-bulk-rename.desktop,xfce4-terminal-emulator.desktop
 button-icon=org.xfce.panel.whiskermenu
 button-single-row=true
 show-button-title=false
