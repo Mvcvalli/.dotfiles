@@ -27,6 +27,9 @@ function fish_prompt
 	set_color normal
 end
 
+# Prevent directories names from being shortened
+set fish_prompt_pwd_dir_length 0
+
 # Automatically install fundle (package manager)
 if not functions -q fundle; eval (curl -sfL https://git.io/fundle-install); end
 

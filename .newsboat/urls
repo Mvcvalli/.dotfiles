@@ -1,50 +1,44 @@
 # NewsBoat URL LIST.
 # Something being on this list is NOT an endorsement.
 
-# FSF & GNU
+# FSF & GNU.
 http://static.fsf.org/fsforg/rss/news.xml                                    "~FSF News"
-http://static.fsf.org/fsforg/rss/blogs.xml                                   "~FSF Blogs"
-http://www.gnu.org/rss/whatsnew.rss                                          "~GNU Project News"
-https://planet.gnu.org/rss20.xml                                             "~Planet GNU"
-https://www.defectivebydesign.org/rss.xml                                    "~Defective by Design"
+http://static.fsf.org/fsforg/rss/blogs.xml				     "~FSF Blogs"
+http://www.gnu.org/rss/whatsnew.rss					     "~GNU News"
+https://planet.gnu.org/rss20.xml					     "~Planet GNU"
+https://www.defectivebydesign.org/rss.xml				     "~Defective by Design"
 https://endsoftwarepatents.org/feed/                                         "~End Software Patents"
-https://ryf.fsf.org/news/rss.xml                                             "~RYF News"
-https://ryf.fsf.org/products/rss.xml                                         "~RYF Products"
+https://ryf.fsf.org/news/rss.xml					     "~RYF News"
+https://ryf.fsf.org/products/rss.xml					     "~RYF Products"
 
-# People
 https://stallman.org//rss/rss.xml                                            "~RMS"
+# Blogs.
 https://lukesmith.xyz/index.xml                                              "~Luke Smith"
-https://rossmanngroup.com/feed                                               "~Louis Rossmann"
+https://stallman.org//rss/rss.xml                                            "~Richard Stallman"
 https://drewdevault.com/blog/index.xml					     "~Drew DeVault"
-https://blog.tomasino.org/index.xml					     "~Tomasino Blog"
-
-# Miscellaneous
 https://stallmansupport.org/feed.xml                                         "~Stallman Support"
-https://based.cooking/index.xml                                              "~Based Cooking"
-https://videos.lukesmith.xyz/feeds/videos.xml?sort=-publishedAt&isLocal=true "~Luke Smith (PeerTube)"
-https://lbry.slipfox.xyz/@18nsfw:e/rss					     "~18nsfw (Librarian)"
-https://lbry.slipfox.xyz/@Mvcvalli:6/rss				     "~Mvcvalli (Librarian)"
-https://media.libreplanet.org/atom/                                          "~GNU MediaGoblin"
 
-# YouTube
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~Louis Rossmann (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6nZlvfz4YWoBWbjiaYJA3g "~Louis Rossmann:RANDOM (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "~Brodie Robertson (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCWh6YtclgTAzReTASc4uSKw "~MAKC (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w "~tripcode!Q/7 (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCij1VEjDb88RCbqsvZ1gqaw "~Side Of Burritos (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC9iZ-y4p_TF75BzZ162oDkQ "~GNU archive unofficial (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCpHZ2Zja5MDrAv1L577Z-TQ "~RHRPaige (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCxk3_stEIe1ZhNBuAWlNMSQ "~Curls (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJvbA_ZCxTsNPb2oIfRQwUw "~Greentext Animations (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCp1tsmksyf6TgKFMdt8-05Q "~The Casual Criminalist (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCUP5UhD6cMfpN4vxW3FYJLQ "~DoingFedTime (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCYwVxWpjeKFWwu8TML-Te9A "~JCS Criminal Psychology (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCbTp1BYjpuhDRG5OmgIT8iw "~James Tomasino (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCc9CjaAjsMMvaSghZB7-Kog "~BeardMeatsFood (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCekXK9WdaAbA5YhHX04TPmA "~Anastasie Vaskevich (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC_hY7q7Kxy3-TL32b92xfWQ "~George Dunnett (YouTube)"
+# Miscellaneous.
+https://based.cooking/index.xml                                              "~Based Cooking"
+https://landchad.net/index.xml                                               "~LandChad"
+https://larbs.xyz/index.xml                                                  "~LARBS"
+
+# YouTube.
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith             (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~Louis Rossmann         (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nZlvfz4YWoBWbjiaYJA3g "~Louis Rossmann RANDOM  (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w "~tripcode!Q/7           (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "~Brodie Robertson       (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw          (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCc9CjaAjsMMvaSghZB7-Kog "~BeardMeatsFood         (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCekXK9WdaAbA5YhHX04TPmA "~Anastasie Vaskevich    (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoe52S7YI72_YzBeBqRWdoQ "~WheezyBlonde           (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsjYvTIExm1qhLfXAaPunKw "~ZELVX and CHARLIE GIRL (YouTube)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q "~MrSantiZap (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-ULsqsUW_UB1F6i2rOo_uQ "~Chris Van Vliet        (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5YhP-H5snGgi6dOE8vj-aA "~Simon Miller           (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q "~MrSantiZap             (YouTube)"
+
+# Other Media.
+https://videos.lukesmith.xyz/feeds/videos.xml?sort=-publishedAt&isLocal=true "~Luke Smith            (PeerTube)"
+https://lbry.slipfox.xyz/@18nsfw:e/rss					     "~18nsfw                (Librarian)"
+https://lbry.slipfox.xyz/@Mvcvalli:6/rss				     "~Mvcvalli              (Librarian)"
