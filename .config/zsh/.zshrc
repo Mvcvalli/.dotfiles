@@ -70,3 +70,4 @@ alias sxiv="$IMAGE"
 alias nsxiv="$IMAGE"
 
 alias ls="exa -a --color=always --icons --group-directories-first"
+alias nt="nsxiv -t -a"
