@@ -7,13 +7,11 @@ export IMAGE="setsid -f nsxiv"
 export VIDEO="setsid -f mpv"
 export READER="setsid -f zathura"
 export RSS="newsboat"
+export MANPAGER="nvim +Man!"
 
 # Language
 export LANG=en_NZ.UTF-8
 export LC_CTYPE=en_NZ.UTF-8
-
-# Set "vim" as manpager
-export MANPAGER='/bin/bash -c "vim -MRn -c \"set buftype=nofile showtabline=0 ft=man ts=8 nomod nolist norelativenumber nonu noma\" -c \"normal L\" -c \"nmap q :qa<CR>\"</dev/tty <(col -b)"'
 
 # ~/ Clean-up:
 ZDOTDIR=$HOME/.config/zsh
